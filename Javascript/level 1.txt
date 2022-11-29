@@ -1,0 +1,72 @@
+Level 0
+
+Story:
+Giada: Hello, my name is Giada. what's you name?
+Jeffrey: Hi Giada, nice to meet you! My name is Jeffrey.
+Giada: Nice to meet you, too. Where are you from? Are you from around here?
+Jeffrey: No, I'm not here. I'm from Italy. And what about you?
+Giada: I come from the United State of America.You look quite old. Maybe you're older than me. How old are you?
+Jeffrey: I'm twenty years old. How about you?
+Giada: You're twenty-nine? Wow! You are older than me. I'll turn twenty-one in a while. My bithday is on december twenty-eight. Would you like to come?
+Jeffrey: I'm sorry, I don't know, it falls during the Chrismas holidays so I probably won't be able to accept your invitation.
+Giada: Come on! If you come to my party I'll come to yours. Okay?
+Jeffrey: Neither of us know each other well and yet (nevertheless) you are already making requests. Very well. 
+Jeffrey: Okay, I'll see what I can do. 
+Jeffrey: I don't know if we are starting on the right foot or if we are starting badly.
+Jeffrey: Then, as well as (or besides) being nice, what do you like to do? I don't know, like, in your spare time.
+Giada: Oh, you meant what do I like to do in my free time, right?
+Jeffrey: Yes, I did. Just like that. That's what I meant.
+Giada: Well, I work all day and I don't have much free time for myself. But I can do things during the weekend. I like to do many activities, like, shopping, hanging out with my friends, and watching Tv series.
+Giada: And you? What do you do for fun?
+Jeffrey: Umm, I like going out with my friends and watch TV series too. But my favorite hobby is to play video games. Then, are you going to go or can you stay a little longer?
+Giada: I think I stay a little longer. 
+Jeffrey: Great! I'm glad you can stay a little longer and entertain me. Then, would you like to carry on with our conversation?
+Giada: Yes, I would. So, what could we talk about? Hmmm, let me think.
+Giada: ah, I got it! What do you do for a living?
+Jeffrey: I don't have a job at the moment. Before, when I was in Italy. I was doing a job I did't like.
+Jeffrey: The reason I didn't feel good in that place was that they were exploiting me.
+Jeffrey: So, one day I understood that the right thing to do was to leave it because it made me feel bad.
+Jeffrey: I think life we have to do our best to feel good and enjoying life. 
+Jeffrey: And leave that job is the best thing I've ever done.
+Giada: I'm so sorry to hear that. I can't imagine what a bad time you had. So what do you do now? 
+Jeffrey: No worries. It could be better but what can we do? That's life.Now I'm on a web developer course. It's a great job nowadays and it pay well.
+Jeffrey: By the way, I've seen you with a good looking man. Who is he? Is he your husband or boyfriend?
+Giada: No, he's neither. Actually, he's my lover.
+Jeffrey: Really? He's your lover?
+Giada: No, he's not. I'm kidding. He is my bestie. Why? Are you jealous? Are yuo interested in me?
+Jeffrey: No, I'm not. Okay carry on then. Do you know what? We have arrived at noon and I'm hungry.
+Jeffrey: Is there a particular place you would to go to? Would you like come with me?
+Giada: Are you trying to ask out or what?
+Jeffrey: No. I'm not. I would just like to deepen my knowledge about you.
+Giada: Alright, I understand your desire to get to know me better. There is no other like me, modesly.
+Jeffrey: Very humble girl you are. 
+jeffrey: Whoa! Have you seen it? we just overtook (passed) a big Chrismas tree.
+Giada: yeah, I've seen. I'm not big fan of it.
+Giada: It looks big but mine would be twice that size, and then you should see how big is that of the family next door.
+Jeffrey: do you know? Having a large tree would be like a dream come true.
+Giada: You are a kid.
+Jeffrey: Oh nice! You make yourself unpleasant now. Know that I was serious.
+Giada: You are serious about it? Hahaha! I'm joking. it's funny to make fun of you. So do you like animals?
+Jeffrey: Oh yes, of course! I have a cat. Do you have any pets?
+Giada: I had a pet. I would like to go back in time.
+Jeffrey: Why? Did something happen?
+Giada: yes, it did. I was reminded of the time he played with the neighbors. He was very friendly. But he died of old age, so don't worry obout it.
+Jeffrey: How much time has passed since then?
+Giada: Not much.
+Jeffrey: I think I should apologize to you for reminding it. Can you forgive me?
+Giada: It's fine. It doesn't matter, I'll survive.
+Jeffrey: I'm relieved it's nothing serious.
+Giada: so do we arrived?
+Jeffrey: yes, we do. We arrived on time for lunch. It's still open. We are lucky.
+Giada: Awesome, get in! I'm starving. Hurry up!
+Jeffrey: Do you want to know a thing? At this moment I've alredy got a bunch of ideas for my website.
+Giada: Do you think it's time for this? Rather, what do you want to order?
+Jeffrey: I don't come here for more than a year. So I think I have a plate of spaghetti with meatballs, it's a very good plate here.
+Giada: It wouldn' hurt. I have a plate of lasagna. I was thinking that we are becoming good friends.
+Jeffrey: So am I. Have I ever told you that you are look like my grandmother when she was young?
+Giada: Oh, please I don't want to speak of that.
+
+
+
+
+
